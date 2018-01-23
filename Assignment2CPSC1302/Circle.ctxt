@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=double\ perimeter(double)
+comment0.text=\r\n\ Description\:\ Takes\ circumference\ to\ calculate\ the\ radius\ for\ a\ circle\r\n\ \r\n\ @return\ Returns\ the\ radius\ of\ the\ circle.\r\n
+comment1.params=radius2
+comment1.target=double\ circleRadius(double)
+comment1.text=\r\n\ Description\:\ Takes\ radius\ to\ calculate\ the\ perimeter\ of\ a\ circle.\r\n\ \ \ \ \ \ \r\n\ @return\ Returns\ the\ perimeter\ of\ the\ circle.\r\n
+comment2.params=a
+comment2.target=double\ area(double)
+comment2.text=\r\n\ Description\:\ Takes\ the\ radius\ to\ calculate\ the\ area\ for\ a\ Circle.\r\n\ \r\n\ @return\ Returns\ the\ area\ of\ the\ circle.\r\n
+numComments=3

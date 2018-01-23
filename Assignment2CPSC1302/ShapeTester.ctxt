@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Description\:\ constructor\ for\ objects\ of\ class\ Measurable\r\n\ \r\n\ @Return\ returns\ the\ perimeter\ and\ area\ for\ the\ Parellelogram\r\n\ @Returns\ returns\ the\ perimeter,\ radius,\ and\ the\ area\ for\ the\ Circle.\r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=double\ perimeter(double)
+comment0.text=\r\n\ Description\:\ Takes\ the\ side\ length\ to\ calculate\ the\ perimeter\ for\ a\ Parellelogram.\r\n\ \r\n\ @return\ Returns\ the\ perimeter\ of\ the\ Parellelogram.\r\n
+comment1.params=a
+comment1.target=double\ area(double)
+comment1.text=\r\n\ Description\:\ Takes\ the\ height\ to\ calculate\ the\ area\ for\ a\ Parallelogram\r\n\ \r\n\ @return\ Returns\ the\ area\ of\ the\ Parellelogram.\r\n
+numComments=2
