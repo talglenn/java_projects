@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment1.params=newDistanceTraveled\ newCar
+comment1.target=Game(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getDistanceTraveled()
+comment3.params=
+comment3.target=java.lang.String\ getCar()
+comment4.params=newDistanceTraveled
+comment4.target=void\ setDistanceTraveled(int)
+comment5.params=newCar
+comment5.target=void\ setCar(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
