@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FallenJedi()
+comment0.text=\r\n\ Description\:\ creates\ FallenJedi\ subclass\r\n\ @precondition\:\ none\r\n\ @postcondition\:\ none\r\n\ @param\:\ String\ darkJediMaster,\ String\ apprentice,\ string\ saberType\r\n\ @return\:\ none.\r\n
+comment1.params=darkJediMaster
+comment1.target=void\ setDarkJediMaster(java.lang.String)
+comment1.text=\r\n\ Description\:\ sets\ the\ Dark\ jedi\ Master\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ none.The\ method\ does\ not\ perform\ opertations\ that\ may\ crash(like\ null\ pointers\ of\ divide\ by\ 0)\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ darkJediMaster.\r\n\ @return\:\ none.\r\n
+comment2.params=apprentice
+comment2.target=void\ setApprentice(java.lang.String)
+comment2.text=\r\n\ Description\:\ sets\ the\ Apprentice\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ none.\ The\ method\ does\ not\ perform\ opertations\ that\ may\ crash(like\ null\ pointers\ of\ divide\ by\ 0)\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ apprentice.\r\n\ @return\:\ none.\r\n
+comment3.params=saberType
+comment3.target=void\ setSaberType(java.lang.String)
+comment3.text=\r\n\ Description\:\ sets\ the\ Saber\ type\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ none.\ The\ method\ does\ not\ perform\ opertations\ that\ may\ crash(like\ null\ pointers\ of\ divide\ by\ 0)\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ saberType.\r\n\ @return\:\ none.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDarkJediMaster()
+comment4.text=\r\n\ Description\:\ returns\ the\ Dark\ jedi\ Master\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ must\ be\ a\ String\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ darkJediMaster.\r\n\ @return\:\ returns\ the\ Dark\ jedi\ Master\ for\ FallenJedi\ subclass.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getApprentice()
+comment5.text=\r\n\ Description\:\ returns\ the\ apprentice\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ must\ be\ a\ String\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ apprentice.\r\n\ @return\:\ returns\ the\ apprentice\ for\ FallenJedi\ subclass.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getSaberType()
+comment6.text=\r\n\ Description\:\ returns\ the\ Saber\ Type\ for\ FallenJedi\ subclass\r\n\ @precondition\:\ must\ be\ a\ String\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ saberType.\r\n\ @return\:\ returns\ the\ Saber\ Type\ for\ FallenJedi\ subclass.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Description\:\ returns\ a\ list\ of\ FallenJedi\ with\ dark\ jedi\ master,\ apprentice,\ and\ saber\ type.\r\n\ @precondition\:\ must\ be\ a\ String\r\n\ @postcondition\:\ must\ be\ a\ String\r\n\ @param\:\ String\ darkJediMaster,\ String\ alliance,\ String\ saberType\r\n@return\:\ returns\ a\ list\ of\ FallenJedi\ with\ darkJediMaster,\ apprentice,\ and\ saberType.
+numComments=8
